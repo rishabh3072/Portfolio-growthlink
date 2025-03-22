@@ -1,0 +1,248 @@
+{
+    "designers": [
+      {
+        "id": "d001",
+        "firstName": "Sheetal",
+        "lastName": "Sharma",
+        "title": "Senior UI/UX Designer",
+        "email": "sheetal.sharma@designcraft.com",
+        "phone": "+91 98765 43210",
+        "location": "Mumbai, India",
+        "about": "Passionate UI/UX designer with over 7 years of experience crafting elegant, user-centered digital experiences. I specialize in creating intuitive interfaces that blend aesthetics with functionality, always keeping the end-user in mind.",
+        "skills": [
+          { "name": "UI Design", "level": 95 },
+          { "name": "UX Research", "level": 90 },
+          { "name": "Wireframing", "level": 92 },
+          { "name": "Prototyping", "level": 88 },
+          { "name": "User Testing", "level": 85 },
+          { "name": "Figma", "level": 98 },
+          { "name": "Adobe XD", "level": 90 },
+          { "name": "Adobe Photoshop", "level": 85 },
+          { "name": "Sketch", "level": 80 },
+          { "name": "HTML/CSS", "level": 75 }
+        ],
+        "education": [
+          {
+            "degree": "Masters in Design",
+            "institution": "National Institute of Design",
+            "location": "Ahmedabad",
+            "year": "2014-2016"
+          },
+          {
+            "degree": "Bachelor of Fine Arts",
+            "institution": "Sir J.J. Institute of Applied Art",
+            "location": "Mumbai",
+            "year": "2010-2014"
+          }
+        ],
+        "experience": [
+          {
+            "position": "Senior UI Designer",
+            "company": "TechVision Solutions",
+            "location": "Mumbai",
+            "period": "2020-Present",
+            "description": "Lead UI design for enterprise applications, creating design systems and ensuring consistent user experiences across platforms. Collaborate with cross-functional teams to deliver user-centered solutions."
+          },
+          {
+            "position": "UI/UX Designer",
+            "company": "Digital Creatives",
+            "location": "Bangalore",
+            "period": "2017-2020",
+            "description": "Designed mobile and web interfaces for clients across fintech, healthcare, and e-commerce sectors. Conducted user research and usability testing to validate design decisions."
+          },
+          {
+            "position": "Junior Designer",
+            "company": "InnoWeb Solutions",
+            "location": "Mumbai",
+            "period": "2016-2017",
+            "description": "Created visual assets and interface elements for web applications. Assisted senior designers in wireframing and prototyping."
+          }
+        ],
+        "projects": [
+          {
+            "id": "p001",
+            "title": "FinWise Banking App",
+            "category": "Mobile App",
+            "description": "A comprehensive mobile banking application designed with focus on accessibility and ease of use. Created an intuitive navigation system and simplified complex financial workflows.",
+            "image": "/photo.jpg",
+            "technologies": ["Figma", "Protopie", "User Testing"],
+            "year": "2023"
+          },
+          {
+            "id": "p002",
+            "title": "HealthTrack Dashboard",
+            "category": "Web Application",
+            "description": "A patient management dashboard for healthcare professionals. Designed an information-rich interface that prioritizes critical patient data while maintaining visual clarity.",
+            "image": "/photo.jpg",
+            "technologies": ["Adobe XD", "Illustrator", "Design System"],
+            "year": "2022"
+          },
+          {
+            "id": "p003",
+            "title": "EcoShop E-commerce Redesign",
+            "category": "Website",
+            "description": "Complete redesign of an e-commerce platform specializing in eco-friendly products. Focused on improving conversion rates and showcasing product sustainability.",
+            "image": "/photo.jpg",
+            "technologies": ["Figma", "Photoshop", "A/B Testing"],
+            "year": "2021"
+          },
+          {
+            "id": "p004",
+            "title": "TravelBuddy App",
+            "category": "Mobile App",
+            "description": "An AI-powered travel companion app that helps users plan and navigate their trips. Created a visually appealing interface that works seamlessly across different environments and lighting conditions.",
+            "image": "/photo.jpg",
+            "technologies": ["Sketch", "InVision", "User Research"],
+            "year": "2020"
+          }
+        ],
+        "testimonials": [
+          {
+            "name": "Rajesh Mehta",
+            "position": "Product Manager, TechVision",
+            "content": "Sheetal has an exceptional eye for detail and a deep understanding of user psychology. Her designs not only look beautiful but always serve the core purpose of enhancing usability.",
+            "avatar": "/photo.jpg"
+          },
+          {
+            "name": "Priya Desai",
+            "position": "CEO, Digital Creatives",
+            "content": "Working with Sheetal was transformative for our products. She brings both creativity and strategic thinking to the table, resulting in designs that truly resonate with users.",
+            "avatar": "/photo.jpg"
+          },
+          {
+            "name": "Arjun Nair",
+            "position": "Developer Lead, FinWise",
+            "content": "As a developer, I appreciate how Sheetal creates designs that are not only beautiful but also implementable. Her attention to detail and documentation make the development process so much smoother.",
+            "avatar": "/photo.jpg"
+          }
+        ],
+        "social": {
+          "linkedin": "https://linkedin.com/in/sheetalsharma",
+          "dribbble": "https://dribbble.com/sheetalsharma",
+          "behance": "https://behance.net/sheetalsharma",
+          "instagram": "https://instagram.com/sheetal.designs"
+        },
+        "avatar": "/photo.jpg",
+        "coverImage": "/photo.jpg",
+        "colors": {
+          "primary": "#7209B7",
+          "secondary": "#3A0CA",
+          "accent": "#F72585",
+          "lightBg": "#F8F9FA",
+          "darkText": "#212529"
+        }
+      },
+      {
+        "id": "d002",
+        "firstName": "Vikram",
+        "lastName": "Khanna",
+        "title": "Product & UI Designer",
+        "email": "vikram.khanna@designworks.com",
+        "phone": "+91 87654 32109",
+        "location": "Pune, India",
+        "about": "Strategic product designer with a background in industrial design and 8+ years of experience creating meaningful digital products. I bridge business goals with user needs through thoughtful, impactful design solutions.",
+        "skills": [
+          { "name": "Product Design", "level": 95 },
+          { "name": "UI Design", "level": 92 },
+          { "name": "Design Strategy", "level": 90 },
+          { "name": "Design Systems", "level": 88 },
+          { "name": "Interaction Design", "level": 85 },
+          { "name": "Figma", "level": 95 },
+          { "name": "Sketch", "level": 90 },
+          { "name": "Adobe Creative Suite", "level": 85 },
+          { "name": "Principle", "level": 80 },
+          { "name": "Front-end Development", "level": 70 }
+        ],
+        "education": [
+          {
+            "degree": "Masters in Industrial Design",
+            "institution": "Industrial Design Centre, IIT Bombay",
+            "location": "Mumbai",
+            "year": "2012-2014"
+          },
+          {
+            "degree": "Bachelor of Design",
+            "institution": "Symbiosis Institute of Design",
+            "location": "Pune",
+            "year": "2008-2012"
+          }
+        ],
+        "experience": [
+          {
+            "position": "Senior Product Designer",
+            "company": "InnovateX",
+            "location": "Pune",
+            "period": "2019-Present",
+            "description": "Lead end-to-end product design for SaaS platforms, focusing on enterprise solutions. Established and evolved the company design system. Mentor junior designers and collaborate with product and engineering teams."
+          },
+          {
+            "position": "UI Team Lead",
+            "company": "TechSpark",
+            "location": "Bangalore",
+            "period": "2016-2019",
+            "description": "Led a team of designers working on fintech products. Established design processes and workflows. Conducted design sprints and workshops to align stakeholders."
+          },
+          {
+            "position": "Product Designer",
+            "company": "DesignFirst",
+            "location": "Pune",
+            "period": "2014-2016",
+            "description": "Designed digital interfaces for various clients. Worked on responsive web applications and mobile apps across different domains."
+          }
+        ],
+        "projects": [
+          {
+            "id": "p001",
+            "title": "Enterprise Data Dashboard",
+            "category": "Web Application",
+            "description": "Redesigned complex data visualization platform for enterprise clients, focusing on information architecture and data presentation. Increased user engagement by 40%.",
+            "image": "/api/placeholder/600/400",
+            "technologies": ["Figma", "Design System", "Data Visualization"],
+            "year": "2023"
+          },
+          {
+            "id": "p002",
+            "title": "PayEasy Fintech App",
+            "category": "Mobile App",
+            "description": "Created a payment platform targeting small businesses, with a focus on simplifying complex financial workflows. Designed for accessibility and ease of use.",
+            "image": "/api/placeholder/600/400",
+            "technologies": ["Sketch", "Principle", "User Testing"],
+            "year": "2021"
+          },
+          {
+            "id": "p003",
+            "title": "InnovateX Design System",
+            "category": "Design System",
+            "description": "Established a comprehensive design system for the company's suite of products, ensuring consistency across multiple platforms and enabling faster design iterations.",
+            "image": "/api/placeholder/600/400",
+            "technologies": ["Figma", "Storybook", "Documentation"],
+            "year": "2020"
+          },
+          {
+            "id": "p004",
+            "title": "SmartHome Control Interface",
+            "category": "IoT Application",
+            "description": "Designed an intuitive interface for controlling smart home devices, with emphasis on accessibility and clear feedback systems.",
+            "image": "/api/placeholder/600/400",
+            "technologies": ["Adobe XD", "Prototyping", "User Research"],
+            "year": "2019"
+          }
+        ],
+        "social": {
+          "linkedin": "https://linkedin.com/in/vikramkhanna",
+          "dribbble": "https://dribbble.com/vikramkhanna",
+          "behance": "https://behance.net/vikramkhanna",
+          "medium": "https://medium.com/@vikram.designs"
+        },
+        "avatar": "/photo.jpg",
+        "coverImage": "/photo.jpg",
+        "colors": {
+          "primary": "#2A9D8F",
+          "secondary": "#264653",
+          "accent": "#E9C46A",
+          "lightBg": "#F7F7F7",
+          "darkText": "#333333"
+        }
+      }
+    ]
+  }
